@@ -36,15 +36,28 @@ To work for an organization that provides me the opportunity to improve my skill
 
 #### Mar 2021 ~ Present: Freelancer
 
-- Mainly responsible Full-stack developer
-
-#### July 2020 ~ Mar 2021: Techbase Vietnam
+Take the opportunity to work on something new. I decided to become a freelancer.
 
 - Mainly responsible Full-stack developer
 
-#### May 2019 ~ July 2020: PYCOGroup
+#### July 2020 ~ Mar 2021: Techbase Vietnam, HCM
+
+In TechBase VietNam - TBV is tending to rejuvenate personnel. So I have many opportunity to take the challenge task. I learn, research, ask some one to find the solution to resolve the task. And I get it done and done well. I also earn more and more experiences about team work, team sharing,
+Scrum concept and how to play hard after work hard.
+
+- Mainly responsible Full-stack developer
+
+#### May 2019 ~ July 2020: PYCOGroup, HCM
+
+In PYCO, my position is BE-NodeJS. At here I practice in software engineering techniques: Unit Testing, Source Code Control, Debugging, learn about Docker, AWS-Lambda - Serverless framework, Kafka messaging system, and fundamental of microservice. I also work well in Scrum process at here.
 
 - Mainly responsible for Back-End developer
+
+#### Apr 2018 ~ Oct 2018: startup MyPOP, HCM
+
+I am a intern of company for 6 months. Learned and implemented APIs for Ads-in-Car project. Besides i also learned about Spring framework, stack of technologies of a software, practice about git, postman.
+
+- Mainly responsible for Intern developer
 
 ## <i class="fas fa-award"></i> Featured Projects
 
@@ -93,18 +106,19 @@ A mobile application that allows user to add their own visa cards, receive trans
 
 ## <i class="fas fa-user-graduate"></i> Technical Strengths & Knowledge:
 
-### Programing languages:
+### Programing languages
 
 - Javascript(NodeJS, VueJS and ReactJS), Python, Java, HTML, CSS.
 
-### Frameworks:
+### Frameworks
 
 - Express, Hapi, Serverless, Jest, Chai, Mocha.
 
-### Knowledge:
+### Knowledge
 
 - Good knowledge about OOP, Algorithm, Data Structure.
 - Good knowledge about Scrum/ Agile working process.
+- Good knowledge about Git flow.
 - Have experience with Testing concepts, Problem solving.
 
 ## <i class="fas fa-user-graduate"></i> Education
