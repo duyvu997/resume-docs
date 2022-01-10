@@ -32,32 +32,43 @@ Learning new languages and technologies is what I am interested in. I am a respo
 
 To work for an organization that provides me the opportunity to improve my skills and knowledge to grow along with the organization's objective.
 
-## <i class="fas fa-user-graduate"></i> Education
-
-**Computer Science - Bach Khoa University - Graduated**
-**Self-study: English (Intermediate), Math and Python for Data Science**
-
 ## <i class="fas fa-user-tie"></i> Work Experience
 
 #### Mar 2021 ~ Present: Freelancer
 
-- Mainly responsible for XXX
+- Mainly responsible Full-stack developer
 
 #### July 2020 ~ Mar 2021: Techbase Vietnam
 
-- Mainly responsible for XXX
+- Mainly responsible Full-stack developer
 
 #### May 2019 ~ July 2020: PYCOGroup
 
-- Mainly responsible for XXX
+- Mainly responsible for Back-End developer
 
 ## <i class="fas fa-award"></i> Featured Projects
 
-### Network management
+### Network management (Jul 2020 - Mar 2021)
 
-#### 2000/01 ~ 2019/01: Developed by XX company, team project, maintenance so far
+#### Desc:
 
-啦啦啦
+A system for generating and allocating ip addresses, manage device's information include mobile, printer, monitor, guess devices, and softwares to support testing environment. Each allocated ip must meet the requirements of separation between departments, between different environments. In addition, to save ip range, it is necessary to regenerate ips that are no longer in use, but can still check its allocated history.
+
+#### Technologies & Frameworks & Libraries:
+
+- NodeJS, Express, VueJS, MySQL, TypeORM, AthenZ, Screwdriver, FaaS, Docker, Swagger
+
+#### Position and Responsibilities:
+
+- Position: FullStack developer
+- Join and discuss with clients to get requirements.
+- Produce high-quality database design to use in database creation, management, and maintenance.
+- Write and deploy APIs document via Swagger to support communication between client and server.
+- Implement APIs to adapt business logic using Express.
+- Implement UI for web application using VueJS.
+- Setup CI/CD using Screwdriver to deploy server to several environments: Dev, Staging, Production.
+- Using AthenZ for provisioning and configuration (centralized authorization) use cases as well as serving/runtime (decentralized authorization) use cases.
+- Using FaaS (Function as a Services) to setup cronjob for scheduling tasks.
 
 ### VisaGo
 
@@ -69,10 +80,13 @@ To work for an organization that provides me the opportunity to improve my skill
 
 #### 1800/01 ~ 1900/01: Developed by XX company
 
-## <i class="fas fa-phone-alt"></i> Contact
+## <i class="fas fa-user-graduate"></i> Education
 
-You can connect with me via:
+**Study: Computer Science - Bach Khoa University**
+**Self-study: English (Intermediate), Math and Python for Data Science**
+
+## <i class="fas fa-phone-alt"></i> Contact
 
 <i class="fas fa-envelope fa-fw"></i> ngocduy0997@gmail.com
 <i class="fas fa-phone-alt fa-fw"></i> 0337 269 2xx
-<i class="fas fa-linkedin-in fa-fw"></i> https://www.linkedin.com/in/duy-vu-1a9767170/
+<i class="fab fa-linkedin-in fa-fw"></i> https://www.linkedin.com/in/duy-vu-1a9767170/
