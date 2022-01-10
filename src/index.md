@@ -30,24 +30,15 @@ download:
   url: https://github.com/duyvu997/resume-docs
 ---
 
-{% raw %}
+## <i class="fas fa-bookmark"></i> Summary and Career Objective
 
-<center>
-<a href='/'>English</a>
-</center>
-
-{% endraw %}
-
-## <i class="fas fa-bookmark"></i> Getting Started
-
-Please directly download the source code of this site and refer to the source code for rewriting.
-
-- Site Source code: https://github.com/xaoxuu/resume-docs
-- Theme source code: https://github.com/xaoxuu/hexo-theme-resume
+Learning new languages and technologies is what I am interested in. I am a responsible person and tend to work well within the group.
+To work for an organization that provides me the opportunity to improve my skills and knowledge to grow along with the organization's objective.
 
 ## <i class="fas fa-user-graduate"></i> Education
 
-**XX University X College X Course X Major X Graduation**
+**Computer Science - Bach Khoa University - Graduated**
+**Self-study: English (Intermediate), Math and Python for Data Science**
 
 ## <i class="fas fa-user-tie"></i> Work Experience
 
@@ -147,45 +138,8 @@ HitFit
 
 ## <i class="fas fa-phone-alt"></i> Contact
 
-目前状态为：在职，考虑换工作，100 年内可到岗。
+You can connect with me via:
 
-<i class="fas fa-envelope fa-fw"></i> your email
-<i class="fas fa-phone-alt fa-fw"></i> 1xxxxxxxxxx
-
-## Theme Config
-
-```yaml
-cdn:
-  # These base libraries cannot be deleted
-  jquery: https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js
-  vue: https://cdn.jsdelivr.net/npm/vue@2.5.21/dist/vue.min.js
-  # When these CDN resources are deleted, local resources are loaded.
-  common: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/common.js
-  escape: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/css.escape.js
-  smooth_scroll: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/smooth-scroll.min.js
-  css: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/css/style.min.css
-  # Optional plug-in: image zoom
-  fancybox:
-    css: https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css
-    js: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js
-
-# robots meta tag
-robots: noindex,nofollow
-
-# the footer of your site
-copyright: '[Copyright © 2017-2020 Mr. X](https://xaoxuu.com)'
-```
-
-## Comments
-
-{% raw %}
-
-<script src="https://utteranc.es/client.js"
-        repo="xaoxuu/hexo-theme-resume"
-        issue-number="17"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-
-{% endraw %}
+<i class="fas fa-envelope fa-fw"></i> ngocduy0997@gmail.com
+<i class="fas fa-phone-alt fa-fw"></i> 0337 269 2xx
+<i class="fas fa-linkedin-in fa-fw"></i> https://www.linkedin.com/in/duy-vu-1a9767170/
