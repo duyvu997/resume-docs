@@ -50,40 +50,67 @@ To work for an organization that provides me the opportunity to improve my skill
 
 ### Network management (Jul 2020 - Mar 2021)
 
-#### Desc:
+#### Description:
 
 A system for generating and allocating ip addresses, manage device's information include mobile, printer, monitor, guess devices, and softwares to support testing environment. Each allocated ip must meet the requirements of separation between departments, between different environments. In addition, to save ip range, it is necessary to regenerate ips that are no longer in use, but can still check its allocated history.
 
 #### Technologies & Frameworks & Libraries:
 
-- NodeJS, Express, VueJS, MySQL, TypeORM, AthenZ, Screwdriver, FaaS, Docker, Swagger
+- NodeJS, Express, VueJS, MySQL, TypeORM, Jest AthenZ, Screwdriver, FaaS, Docker, Swagger.
 
 #### Position and Responsibilities:
 
-- Position: FullStack developer
+- Position: Full-stack developer
 - Join and discuss with clients to get requirements.
 - Produce high-quality database design to use in database creation, management, and maintenance.
 - Write and deploy APIs document via Swagger to support communication between client and server.
 - Implement APIs to adapt business logic using Express.
 - Implement UI for web application using VueJS.
-- Setup CI/CD using Screwdriver to deploy server to several environments: Dev, Staging, Production.
+- Write unit-test to ensure high code's quality.
+- Using Screwdriver to set up CI/CD to deploy server to several environments: Dev, Staging, Production.
 - Using AthenZ for provisioning and configuration (centralized authorization) use cases as well as serving/runtime (decentralized authorization) use cases.
-- Using FaaS (Function as a Services) to setup cronjob for scheduling tasks.
+- Using FaaS (Function as a Service) to setup the cronjob for scheduling tasks.
+- Investigate and optimize some features of libraries for higher performance.
 
-### VisaGo
+### Visa (Aug 2019 - Mar 2020)
 
-#### 1900/01 ~ 2000/01: Developed by XX company
+#### Description:
 
-啦啦啦
+A mobile application that allows user to add their own visa cards, receive transaction notifications, play games, earn rewards. Visa used it as a showcase at the Tokyo 2020 Olympics.
 
-### ShabuShiba
+#### Technologies & Frameworks & Libraries:
 
-#### 1800/01 ~ 1900/01: Developed by XX company
+- NodeJS, Serverless, DocumentDB, MongoDB, Jest, Mocha, Chai Lambda, System Manager, Cognito, SNS, CloudWatch, X-Ray, API Gateway, Docker compose.
+
+#### Position and Responsibilities:
+
+- Position: Back-end developer.
+- Implement RESTful APIs to adapt business logic by building Lambda functions using Serverless framework.
+- Write unit test to ensure high code quality using Jest, Mocha, Chai.
+- Enhance development process with docker and docker-compose to quick setup, code, and test with local environment.
+- Trace and monitor bugs, bottle neck when stress test using CloudWatch and X-Ray.
+- Document data workflow with sequence diagram.
+
+## <i class="fas fa-user-graduate"></i> Technical Strengths & Knowledge:
+
+### Programing languages:
+
+- Javascript(NodeJS, VueJS and ReactJS), Python, Java, HTML, CSS.
+
+### Frameworks:
+
+- Express, Hapi, Serverless, Jest, Chai, Mocha.
+
+### Knowledge:
+
+- Good knowledge about OOP, Algorithm, Data Structure.
+- Good knowledge about Scrum/ Agile working process.
+- Have experience with Testing concepts, Problem solving.
 
 ## <i class="fas fa-user-graduate"></i> Education
 
-**Study: Computer Science - Bach Khoa University**
-**Self-study: English (Intermediate), Math and Python for Data Science**
+**Graduated: Computer Science - Bach Khoa University**
+**Self-study: English (Intermediate), Math**
 
 ## <i class="fas fa-phone-alt"></i> Contact
 
