@@ -3,7 +3,7 @@
 lang: en
 # Site Keywords & Description
 keywords: Resume,Hexo,Resume Theme
-description: This is a cool resume theme for hexo.
+description: Software engineer
 # Resume Title
 resume_title: Duy Vu's Resume
 # Job Applicant Name
@@ -38,20 +38,19 @@ To work for an organization that provides me the opportunity to improve my skill
 
 Take the opportunity to work on something new. I decided to become a freelancer.
 
-- Mainly responsible Full-stack developer
+- Mainly responsible Full-stack developer (NodeJS - ReactJS)
 
 #### July 2020 ~ Mar 2021: Techbase Vietnam, HCM
 
-In TechBase VietNam - TBV is tending to rejuvenate personnel. So I have many opportunity to take the challenge task. I learn, research, ask some one to find the solution to resolve the task. And I get it done and done well. I also earn more and more experiences about team work, team sharing,
-Scrum concept and how to play hard after work hard.
+TechBase VietNam is tending to rejuvenate personnel. So I have many opportunities to take the challenging task. I learn, research, ask someone to find the solution to resolve the task. And I get those tasks done and done well. I also earn more and more experiences in teamwork, team sharing, deep dive into Scrum/Agile concepts and how to play hard after working hard.
 
-- Mainly responsible Full-stack developer
+- Mainly responsible Full-stack developer (NodeJS - VueJS)
 
 #### May 2019 ~ July 2020: PYCOGroup, HCM
 
-In PYCO, my position is BE-NodeJS. At here I practice in software engineering techniques: Unit Testing, Source Code Control, Debugging, learn about Docker, AWS-Lambda - Serverless framework, Kafka messaging system, and fundamental of microservice. I also work well in Scrum process at here.
+In PYCO, I practice in software engineering techniques: Unit Testing, Source Code Control, Debugging, learn about Docker, AWS-Lambda - Serverless framework, Kafka messaging system, and fundamental of microservice. I also work well in Scrum process at here.
 
-- Mainly responsible for Back-End developer
+- Mainly responsible for Back-End developer (NodeJS)
 
 #### Apr 2018 ~ Oct 2018: startup MyPOP, HCM
 
