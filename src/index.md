@@ -41,7 +41,7 @@ To work for an organization that provides me the opportunity to improve my skill
 
 #### Mar 2021 ~ Present: Freelancer
 
-Take the opportunity to work on something new. I decided to become a freelancer.
+Take the opportunity to work on somethings new. I decided to become a freelancer.
 
 - Mainly responsible Full-stack developer (NodeJS - ReactJS)
 
@@ -63,7 +63,32 @@ I am a intern of company for 6 months. Learned and implemented APIs for Ads-in-C
 
 - Mainly responsible for Intern developer
 
-## <i class="fas fa-award"></i> Featured Projects
+## <i class="fas fa-award"></i> Projects
+
+### Amberdata
+
+#### Description:
+
+The Crypto Price Prediction API is a powerful application that leverages data from leading cryptocurrency exchanges, including Binance, FTX, and OKEx, to provide accurate predictions for cryptocurrency prices. By utilizing machine learning algorithms and advanced data analysis techniques, this application offers users valuable insights into the future trends and movements of various cryptocurrencies.
+
+#### Technologies & Frameworks & Libraries
+
+- Java, Python, EC2, Kafka, CloudWatch.
+
+#### Position and Responsibilities:
+
+- Position: Back-end engineer
+
+- Understand the API documentation and requirements of the cryptocurrency exchange (CEX).
+- Implement the necessary logic to call the CEX API at scheduled intervals or in response to specific events.
+- Handle error cases, retries, and rate limiting to ensure reliable and efficient data retrieval.
+- Implement functionality to save the data received from Kafka into the database, ensuring data consistency and integrity.
+- Define WebSocket endpoints to expose data received from Kafka to clients in real-time.
+- Design and develop RESTful APIs to expose data stored in the database to clients.
+- Set up deployment pipelines and infrastructure to ensure smooth deployment of server instances.
+- Monitor server health, performance, and resource utilization, and troubleshoot issues as they arise.
+- Continuously optimize server performance, scalability, and data processing efficiency.
+- Participate in code reviews, share knowledge with the team, and contribute to improving the overall development process.
 
 ### ToMyVillage
 
@@ -78,6 +103,13 @@ A travel application. Allow user discover many villages, plan many activities, i
 #### Position and Responsibilities:
 
 - Position: Back-end developer
+- Design and develop RESTful APIs that enable communication between the frontend and backend.
+- Design and maintain the application's database schema to efficiently store user information, villages, activities, trips, and social connections. 
+- Ensure data integrity, optimize queries, and manage database backups and migrations.
+- Implement functionalities for users to invite friends to trips, manage friend connections, and share trip details with others through various channels such as social media, or messaging platforms.
+- Optimize backend code, database queries, and caching mechanisms to ensure fast and responsive performance of the travel application, especially when handling large datasets and concurrent user requests.
+- Implement WeChat authentication to allow users to log in to the application using their WeChat accounts.
+- Integrate payment gateways or third-party payment APIs, such as WeChat Pay or other preferred payment providers, into the travel application.
 
 ### Network management (Jul 2020 - Mar 2021)
 
@@ -92,6 +124,7 @@ A system for generating and allocating ip addresses, manage device's information
 #### Position and Responsibilities:
 
 - Position: Full-stack developer
+
 - Join and discuss with clients to get requirements.
 - Produce high-quality database design to use in database creation, management, and maintenance.
 - Write and deploy APIs document via Swagger to support document and integration bettween frontend vs backend
