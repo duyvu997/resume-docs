@@ -65,7 +65,83 @@ I am a intern of company for 6 months. Learned and implemented APIs for Ads-in-C
 
 ## <i class="fas fa-award"></i> Projects
 
-### Amberdata
+<!----------------------------------------------------------------------------------------------------------->
+
+### NEO & Vality
+
+#### Description:
+
+"NEO" is a Digital Transformation (DX) app tailored for the manufacturing industry in Japan. It provides a comprehensive management solution for Small and Medium Enterprises (SMEs), enabling them to visualize production processes, effectively manage projects, and optimize resource utilization. By simplifying complex management tasks, "NEO" aims to drive cost reductions and enhance gross margins, facilitating the digital transformation journey for SMEs in the manufacturing sector.
+
+"Vality" the next generation of NEO. 
+
+#### Technologies & Frameworks & Libraries
+
+- NodeJS, Python, FastAPI, Mysql, S3, VueJS. (NEO)
+- Golang, Microservices, Mysql, NextJS, Clean Architecture. (Vality)
+#### Position and Responsibilities:
+- Position: Fullstack developer 
+- Identifying and resolving bugs in the application while also developing new features, both in terms of UI and API.
+- Conducting thorough code reviews to ensure code quality and adherence to coding standards.
+- Building products from scratch, utilizing my skills to create robust and scalable solutions.
+- Composing comprehensive documentation to provide clear guidelines and instructions for seamless product maintenance.
+
+
+#### References
+- https://monorevo.jp/
+
+
+<!----------------------------------------------------------------------------------------------------------->
+
+### Socialize Web3 Game 
+
+#### Description:
+
+#### Technologies & Frameworks & Libraries
+
+#### Position and Responsibilities:
+- Position: Back-end developer 
+
+
+
+<!----------------------------------------------------------------------------------------------------------->
+
+### Run To Earn Game 
+
+#### Description:
+
+#### Technologies & Frameworks & Libraries
+
+#### Position and Responsibilities:
+
+
+<!----------------------------------------------------------------------------------------------------------->
+
+### Shabu Town (Jul 2021 - Mar 2022: 8 members) 
+
+#### Description:
+
+A webtoon application. Allows user buy, hold, and earn token in an NFT game. It like a social game play.
+
+#### Technologies & Frameworks & Libraries
+
+- NodeJS, Express, Postgre, S3, Heroku, Socket.io, Phaser, Amplitude, Redis
+
+#### Position and Responsibilities:
+- Position: Fullstack developer 
+- Integrating blockchain technology to facilitate user purchases and utilization of NFTs within the game.
+- Utilizing the Phaser framework to develop engaging gameplay for both PVE and PVP experiences.
+- Conducting code reviews and providing feedback to ensure code quality and adherence to best practices.
+- Planning and organizing tasks for the team to ensure efficient project execution.
+- Monitoring error logs and resource usage to identify and address issues promptly.
+- Setting up and managing deployment processes to ensure smooth and successful game releases.
+
+#### References
+
+
+<!----------------------------------------------------------------------------------------------------------->
+
+### Amberdata (Mar 2021 - Jul 2021: 4 members)
 
 #### Description:
 
@@ -89,8 +165,9 @@ The Crypto Price Prediction API is a powerful application that leverages data fr
 - Monitor server health, performance, and resource utilization, and troubleshoot issues as they arise.
 - Continuously optimize server performance, scalability, and data processing efficiency.
 - Participate in code reviews, share knowledge with the team, and contribute to improving the overall development process.
+<!----------------------------------------------------------------------------------------------------------->
 
-### ToMyVillage
+### ToMyVillage (Mar 2022 -  Apr 2023: 7 members)
 
 #### Description:
 
@@ -111,7 +188,9 @@ A travel application. Allow user discover many villages, plan many activities, i
 - Implement WeChat authentication to allow users to log in to the application using their WeChat accounts.
 - Integrate payment gateways or third-party payment APIs, such as WeChat Pay or other preferred payment providers, into the travel application.
 
-### Network management (Jul 2020 - Mar 2021)
+<!----------------------------------------------------------------------------------------------------------->
+
+### Network management (Jul 2020 - Mar 2021: 7 members)
 
 #### Description:
 
@@ -135,8 +214,9 @@ A system for generating and allocating ip addresses, manage device's information
 - Using AthenZ for provisioning and configuration (centralized authorization) use cases as well as serving/runtime (decentralized authorization) use cases.
 - Using FaaS (Function as a Service) to setup the cronjob for scheduling tasks.
 - Investigate and optimize some features of libraries for higher performance.
+<!----------------------------------------------------------------------------------------------------------->
 
-### Visa (Aug 2019 - Mar 2020)
+### Visa (Aug 2019 - Mar 2020: 15 members)
 
 #### Description:
 
@@ -155,6 +235,10 @@ A mobile application that allows user to add their own visa cards, receive trans
 - Trace and monitor bugs, bottle neck when stress test using CloudWatch and X-Ray.
 - Document data workflow with sequence diagram.
 
+#### References
+- Download: https://appadvice.com/app/visa-go-tokyo/1489358068
+
+<!----------------------------------------------------------------------------------------------------------->
 ### Pet Project: Sell NFT Web
 
 #### Description:
