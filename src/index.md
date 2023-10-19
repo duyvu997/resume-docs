@@ -28,7 +28,7 @@ contact:
 download:
   title: Download
   icon: fas fa-download fa-fw
-  url: https://github.com/duyvu997/resume-docs
+  url: https://drive.google.com/file/d/1p5O_AkWDDla9L6cCi0tYAukVD1EF73NI/view?usp=share_link
 ---
 
 ## <i class="fas fa-bookmark"></i> Summary and Career Objective
