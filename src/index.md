@@ -3,9 +3,9 @@
 lang: en
 # Site Keywords & Description
 keywords: Resume, Hexo, Resume Theme
-description: Software Engineer
+description: Senior Software Engineer
 # Resume Title
-resume_title: DUY VU's Resume
+resume_title: DUY VU NGOC's Resume
 
 social:
   - url: https://github.com/duyvu997
@@ -22,7 +22,7 @@ contact:
     url:
   # Phone Number
   - icon: fas fa-phone-alt
-    text: 0337 269 2xx
+    text: 0337 xxx xxx
     url:
 # PDF Download Link
 download:
@@ -231,7 +231,7 @@ A mobile application that allows user to add their own visa cards, receive trans
 
 #### Position and Responsibilities:
 
-- Position: Back-end developer.
+- Position: Junior Software Engineer.
 - Implement RESTful APIs to adapt business logic by building Lambda functions using Serverless framework.
 - Write unit test to ensure high code quality using Jest, Mocha, Chai.
 - Enhance development process with docker and docker-compose to quick setup, code, and test with local environment.
@@ -259,7 +259,7 @@ A mobile application that allows user to add their own visa cards, receive trans
 
 ### Frameworks
 
-- Express, Hapi, Serverless, Jest, Chai, Mocha.
+- NestJS, Electron, Express, Hapi, Serverless, Jest, Chai, Mocha
 
 ### Knowledge
 
@@ -276,5 +276,5 @@ A mobile application that allows user to add their own visa cards, receive trans
 ## <i class="fas fa-phone-alt"></i> Contact
 
 <i class="fas fa-envelope fa-fw"></i> ngocduy0997@gmail.com
-<i class="fas fa-phone-alt fa-fw"></i> 0337 269 2xx
+<i class="fas fa-phone-alt fa-fw"></i> 0337 xxx xxx
 <i class="fab fa-linkedin-in fa-fw"></i> https://www.linkedin.com/in/duy-vu-1a9767170/
