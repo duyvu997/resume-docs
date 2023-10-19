@@ -137,7 +137,7 @@ A webtoon application. Allows user buy, hold, and earn token in an NFT game. It 
 - Setting up and managing deployment processes to ensure smooth and successful game releases.
 
 #### References
-
+- https://opensea.io/collection/shabu-town-shibas
 
 <!----------------------------------------------------------------------------------------------------------->
 
@@ -187,6 +187,9 @@ A travel application. Allow user discover many villages, plan many activities, i
 - Optimize backend code, database queries, and caching mechanisms to ensure fast and responsive performance of the travel application, especially when handling large datasets and concurrent user requests.
 - Implement WeChat authentication to allow users to log in to the application using their WeChat accounts.
 - Integrate payment gateways or third-party payment APIs, such as WeChat Pay or other preferred payment providers, into the travel application.
+
+#### References
+- https://mp.weixin.qq.com/s/qbnJ1emkaxAm3Pg1ZaQUGg
 
 <!----------------------------------------------------------------------------------------------------------->
 
