@@ -33,9 +33,7 @@ download:
 
 ## <i class="fas fa-bookmark"></i> Summary and Career Objective
 
-Learning new languages and technologies is what I am interested in. I am a responsible person and tend to work well within the group.
-
-To work for an organization that provides me the opportunity to improve my skills and knowledge to grow along with the organization's objective.
+I am passionate about learning new languages and technologies. I excel in teamwork and seek an organization that fosters my professional growth while aligning with its objectives.
 
 ## <i class="fas fa-user-tie"></i> Work Experiences
 
