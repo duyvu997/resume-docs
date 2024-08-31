@@ -248,6 +248,28 @@ A mobile application that allows user to add their own visa cards, receive trans
 - Solana devnet
 - https://tom-blocks.vercel.app
 
+<!----------------------------------------------------------------------------------------------------------->
+### Pet Project: TikTok Video Downloader & Converter (Aug 2024 - Present: 1 developer)
+
+#### Description:
+A Python application designed to download TikTok videos from specified channel URLs and convert them to MP3 format. The tool utilizes Selenium for dynamic content scraping and yt-dlp for downloading videos. The downloaded videos are then converted to MP3 format using moviepy. This project is useful for extracting and processing media content from TikTok for offline use.
+
+#### Technologies & Frameworks & Libraries
+- Python, Selenium, BeautifulSoup, yt-dlp, moviepy
+- Video and audio processing libraries
+
+#### Position and Responsibilities:
+- Position: Sole Developer
+- Developed functions to download videos from TikTok using yt-dlp and save them in MP4 format.
+- Implemented video-to-audio conversion using moviepy to produce MP3 files from the downloaded videos.
+- Created an organized folder structure for storing downloaded MP4 and converted MP3 files.
+- Provided clear and detailed documentation for setup, usage, and customization of the application.
+
+#### References
+GitHub Repository: [[Repository Link](https://github.com/duyvu997/download-tiktok-videos)]
+
+<!----------------------------------------------------------------------------------------------------------->
+
 ## <i class="fas fa-user-graduate"></i> Technical Strengths & Knowledges
 
 ### Languages
