@@ -37,7 +37,15 @@ I am passionate about learning new languages and technologies. I excel in teamwo
 
 ## <i class="fas fa-user-tie"></i> Work Experiences
 
-#### Mar 2021 ~ Present: Freelancer
+#### Aug 2023 ~ Present: WATA Corporation, WATATEK, HCM
+
+At WATA Corporation, I have gained extensive experience and developed new skills through working on diverse projects. Notably, I contributed to projects focused on personal financial management and long-term financial planning, enhancing my understanding of delivering impactful technology solutions in the finance domain.
+
+#### Nov 2022 ~ July 2023: Monorevo Vietnam, HCM
+
+During my time at Monorevo Vietnam, I learned how to apply IT solutions effectively to support small and medium-sized enterprises (SMEs). I contributed to helping businesses optimize their daily operations, improve workflow efficiency, and build systems that provide better visibility for monitoring and strategic planning. This experience strengthened my understanding of how technology can drive real business growth and transformation.
+
+#### Mar 2021 ~ Nov 2022: Freelancer
 
 Take the opportunity to work on somethings new. I decided to become a freelancer.
 
@@ -45,19 +53,19 @@ Take the opportunity to work on somethings new. I decided to become a freelancer
 
 #### July 2020 ~ Mar 2021(9m): Techbase Vietnam, HCM
 
-TechBase VietNam is tending to rejuvenate personnel. So I have many opportunities to take the challenging task. I learn, research, ask someone to find the solution to resolve the task. And I get those tasks done and done well. I also earn more and more experiences in teamwork, team sharing, deep dive into Scrum/Agile concepts and how to play hard after working hard.
+TechBase Vietnam has been focusing on rejuvenating its workforce, which has given me many opportunities to take on challenging tasks. I actively learn, research, and collaborate with others to find effective solutions — ensuring each task is completed successfully. Through this, I’ve gained valuable experience in teamwork, knowledge sharing, and a deeper understanding of Scrum/Agile principles — as well as the importance of balancing hard work with enjoyment.
 
 - Mainly responsible Full-stack developer (NodeJS - VueJS)
 
 #### May 2019 ~ July 2020(1y2m): PYCOGroup, HCM
 
-In PYCO, I practice in software engineering techniques: Unit Testing, Source Code Control, Debugging, learn about Docker, AWS-Lambda - Serverless framework, Kafka messaging system, and fundamental of microservice. I also work well in Scrum process at here.
+Practiced software engineering principles at PYCO, including unit testing, version control, and debugging. Gained experience with Docker, AWS Lambda (Serverless Framework), Kafka, and microservice fundamentals while actively participating in the Scrum process.
 
 - Mainly responsible for Back-End developer (NodeJS)
 
 #### Apr 2018 ~ Oct 2018(6m): startup MyPOP, HCM
 
-I am a intern of company for 6 months. Learned and implemented APIs for Ads-in-Car project. Besides i also learned about Spring framework, stack of technologies of a software, practice about git, postman.
+I interned at the company for 6 months, where I learned and implemented APIs for the Ads-in-Car project. During this time, I also gained hands-on experience with the Spring Framework, explored various software technology stacks, and practiced essential tools such as Git and Postman.
 
 - Mainly responsible for Intern developer
 
